@@ -1,4 +1,6 @@
-<p>
-  <img src="light_mode.svg" alt="Light mode image" class="light-mode-img" />
-  <img src="dark_mode.svg" alt="Dark mode image" class="dark-mode-img" />
-</p>
+<a href="https://kartikeyagoel.netlify.app/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KartikeyaGoel/KartikeyaGoel/refs/heads/main/dark_mode.svg">
+    <img alt="Kartikeya Goel's GitHub Profile README" src="https://raw.githubusercontent.com/KartikeyaGoel/KartikeyaGoel/refs/heads/main/light_mode.svg">
+  </picture>
+</a>
